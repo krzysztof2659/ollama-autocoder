@@ -1,6 +1,6 @@
 {
   "name": "ollama-autocoder",
-  "version": "0.1.36",
+  "version": "0.1.37",
   "description": "A simple to use Ollama autocompletion engine with options exposed and streaming functionality",
   "main": "src/index.ts",
   "scripts": {
